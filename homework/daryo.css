@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    
+}
+.navbar .b{
+    text-align: center;
+    font-family: sans-serif;
+    padding:20px 20px;
+    
+}
+.navbar .b a{
+    background-color: #0089d0;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 100px;
+    text-decoration: none;
+    
+}
+.navbar .b a:hover{
+    text-decoration: underline;
+
+    /* font-size: 150%; */
+    /* display: block; */
+    /* display: none; */
+
+    
+}
+.menu{
+    line-height: 50px;
+    background-color: #0089d0;
+    font-family: sans-serif;
+    height: 40px;
+    line-height: 40px;
+ }
+ .menu a:hover{
+     /* color:; */
+     text-decoration: underline
+     ;
+ }
+ .menu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    
+    
+ }
+ .menu #h{
+     margin-left: 100px;
+ }

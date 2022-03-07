@@ -1,0 +1,130 @@
+body{
+    font-family: sans-serif;
+
+
+}
+.katta{
+    background-color: #f2f2f2;
+    border-radius: 6px;
+    overflow-y:scroll ;
+
+}
+h2{
+    text-align: center;
+   
+    font-size: 50px;
+ 
+}
+
+.bosh{
+    display: flex;
+    line-height: 54px;
+    font-size: 25px;
+    padding-left: 50px;
+    
+    padding-bottom: 100px;
+    
+    
+   
+
+    
+
+}
+.bosh1 a{
+    text-decoration: none;
+  }
+.bosh1 .a{
+    /* width: 100%; */
+    background-color: #3B5998;;
+    color: white;
+    padding: 10px 200px;
+    border-radius: 4px;
+    padding: 10px 365px 10px 10px;
+
+    
+}
+.bosh1 .a:hover{
+    background-color: white;
+    color: black;
+}
+
+.bosh1 .b{
+    background-color: #55ACEE;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    padding: 10px 400px 10px 10px ;
+
+}
+.bosh1 .b:hover{
+    background-color: white;
+    color: black;
+
+}
+.bosh1 .c{
+    background-color: #dd4b39;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    padding: 10px 378px 10px 10px;
+}
+.bosh1 .c:hover{
+    background-color: white;
+    color: black;
+}
+.bosh2{
+    padding-left: 80px;
+}
+.bosh2 #d{
+    padding: 8px 200px 5px 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    border: 0;
+}
+.bosh2 #e{
+    padding: 8px 200px 5px 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    border: 0;
+}
+button{
+    padding: 8px 454px 5px 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: #04aa6d;
+    color: white;
+    
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+.bol a{ 
+    text-decoration: none;
+    padding: 30px 285px;
+    background-color: #666;
+    color: white;
+    /* border-radius: 5px; */
+    float: left;
+}
+.bol a:hover{
+    color: black;
+
+}
+#dd{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
